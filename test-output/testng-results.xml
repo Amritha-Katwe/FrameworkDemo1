@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23805" started-at="2018-01-16T14:33:13Z" finished-at="2018-01-16T14:33:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23805" started-at="2018-01-16T14:33:13Z" finished-at="2018-01-16T14:33:37Z">
+      <class name="scripts.TestValidLogin">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:scripts.TestValidLogin@1d371b2d]" name="openApplication" is-config="true" duration-ms="13167" started-at="2018-01-16T20:03:13Z" finished-at="2018-01-16T20:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="testValidLogin()[pri:0, instance:scripts.TestValidLogin@1d371b2d]" name="testValidLogin" duration-ms="10225" started-at="2018-01-16T20:03:26Z" finished-at="2018-01-16T20:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:scripts.TestValidLogin@1d371b2d]" name="closeApplication" is-config="true" duration-ms="358" started-at="2018-01-16T20:03:37Z" finished-at="2018-01-16T20:03:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- scripts.TestValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
